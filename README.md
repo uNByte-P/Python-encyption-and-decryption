@@ -1,6 +1,8 @@
 # Python-encyption-and-decryption
 library pyAesCrypt, encyption and decryption files (aes).
 
+pyAesCrypt library required. (installation: "pip install pyAesCrypt")
+
 You have to files encrypt and decrypt,
 
 1. First off all you need to encrypt yours new file with "encrypt.py", you gona write an information which will by encrypted in a txt file. (Important! file name: "data.txt") after that, you will receive a file called: "data.txt.aes" (encrypted file)
